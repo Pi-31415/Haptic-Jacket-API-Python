@@ -1,7 +1,7 @@
 # Haptic-Jacket-API-Python
  Python API for Haptic Jacket Controller Application
 
-![Image of preview 1](preview.png)
+![Image of preview 1](preview.gif)
 
  Download this repository on computer to use.
 
